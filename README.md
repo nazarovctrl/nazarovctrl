@@ -2,6 +2,7 @@
 ## Java backend developer
 ### my cv [Azimjon Nazarov CV.pdf](https://github.com/nazarovctrl/nazarovctrl/files/12024326/Azimjon.Nazarov.CV.pdf)
 
+#🔭 I’m currently working on Green White Solutions LLC
 
 
 <!--
