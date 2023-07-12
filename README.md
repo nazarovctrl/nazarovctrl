@@ -1,6 +1,7 @@
 ### Hi there 👋 
-J a v a b a c k e n d d e v e l o p e r
-## my cv [Azimjon Nazarov CV (1).pdf](https://github.com/nazarovctrl/nazarovctrl/files/12024315/Azimjon.Nazarov.CV.1.pdf)
+### J a v a b a c k e n d d e v e l o p e r
+### my cv [Azimjon Nazarov CV.pdf](https://github.com/nazarovctrl/nazarovctrl/files/12024326/Azimjon.Nazarov.CV.pdf)
+
 
 
 <!--
