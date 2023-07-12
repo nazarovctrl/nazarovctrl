@@ -1,6 +1,7 @@
 ### Hi there 👋 
 ##  I'm Java backend developer
-### my cv [download](https://github.com/nazarovctrl/nazarovctrl/files/12024326/Azimjon.Nazarov.CV.pdf)/<a href="https://drive.google.com/file/d/18tsxOKMAeniylkhuzH_ZVo6fbgU6VM63/view?usp=sharing" target="_blank">view</a>
+### my cv [download](https://github.com/nazarovctrl/nazarovctrl/files/12024326/Azimjon.Nazarov.CV.pdf)/<a href="https://drive.google.com/file/d/18tsxOKMAeniylkhuzH_ZVo6fbgU6VM63/view?usp=sharing" target="_blank" rel="noopener noreferrer">Link</a>
+
 #### 🔭 I’m currently working on Green White Solutions LLC
 #### ⚡ In my spare time I work on my project [bandla](https://github.com/nazarovctrl/bandla)
 
