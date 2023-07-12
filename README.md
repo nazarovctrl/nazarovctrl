@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### J a v a b a c k e n d d e v e l o p e r
+## Java backend developer
 ### my cv [Azimjon Nazarov CV.pdf](https://github.com/nazarovctrl/nazarovctrl/files/12024326/Azimjon.Nazarov.CV.pdf)
 
 
