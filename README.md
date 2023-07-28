@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi
 ##  I'm Java backend developer
 ### 📋 My cv [download](https://github.com/nazarovctrl/nazarovctrl/files/12024326/Azimjon.Nazarov.CV.pdf)/[view](https://drive.google.com/file/d/18tsxOKMAeniylkhuzH_ZVo6fbgU6VM63/view?usp=sharing)
 
