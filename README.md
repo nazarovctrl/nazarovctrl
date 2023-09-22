@@ -1,6 +1,6 @@
 ### Hi
 ##  I'm Java backend developer
-### 📋 My cv [download](https://drive.google.com/u/0/uc?id=1Ls34h2Un7T4p54vIKx_sduoVIW8TWi3v&export=download)/[view](https://drive.google.com/file/d/1Ls34h2Un7T4p54vIKx_sduoVIW8TWi0v/view?usp=drivesdk)
+### 📋 My cv [download](https://drive.google.com/u/0/uc?id=1Ls34h2Un7T4p54vIKx_sduoVIW8TWi3v&export=download)/[view](https://drive.google.com/file/d/1Ls34h2Un7T4p54vIKx_sduoVIW8TWi3v/view)
 
 #### 🔭 I’m currently working on Green White Solutions LLC
 #### ⚡ In my spare time I work on my project [bandla](https://github.com/nazarovctrl/bandla) and on my open source library [telegram-bot-spring](https://github.com/nazarovctrl/telegram-bot-spring)
