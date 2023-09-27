@@ -2,7 +2,7 @@
 ##  I'm Java backend developer
 ### 📋 My cv [download](https://drive.google.com/u/0/uc?id=1Ls34h2Un7T4p54vIKx_sduoVIW8TWi3v&export=download)/[view](https://drive.google.com/file/d/1Ls34h2Un7T4p54vIKx_sduoVIW8TWi3v/view)
 
-#### 🔭 I’m currently working on Green White Solutions LLC
+#### 🔭 Currently I work at [Green White Solutions LLC](https://www.greenwhite.uz)  and at [Upper.uz](https://upper.uz)
 #### ⚡ In my spare time I work on my project [bandla](https://github.com/nazarovctrl/bandla) and on my open source library [telegram-bot-spring](https://github.com/nazarovctrl/telegram-bot-spring)
 #
 
